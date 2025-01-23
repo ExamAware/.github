@@ -9,6 +9,7 @@
 
 ExamAware 是一款显示当前时间与考试详细信息的信息显示工具，可以在多种平台的屏幕上显示各种信息。
 
+</div>
 
 #### 💬[ExamAware QQ 群组](https://qm.qq.com/q/zDiEipHsaI)
 
