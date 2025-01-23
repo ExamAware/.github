@@ -1,6 +1,6 @@
 <div align="center">
 
-# <image src="https://github.com/user-attachments/assets/1f721808-121d-4e7e-94ba-ab1ebcbe89d0" height="28"/> DSZ ExamAware
+# <image src="https://avatars.githubusercontent.com/u/195304368?s=200&v=4" height="28"/> DSZ ExamAware
 
 [![Stars](https://img.shields.io/github/stars/ExamAware/dsz-exam-showboard?label=Stars)](https://github.com/ExamAware/dsz-exam-showboard)
 [![正式版 Release](https://img.shields.io/github/v/release/ExamAware/dsz-exam-showboard?style=flat-square&color=%233fb950&label=正式版)](https://github.com/ExamAware/dsz-exam-showboard/releases/latest)
@@ -9,9 +9,9 @@
 
 ExamAware 是一款显示当前时间与考试详细信息的信息显示工具，可以在多种平台的屏幕上显示各种信息。
 
-</div>
-
 #### 💬[ExamAware QQ 群组](https://qm.qq.com/q/zDiEipHsaI)
+
+</div>
 
 ## 仓库
 
