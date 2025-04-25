@@ -27,7 +27,7 @@ ExamAware 系列软件是显示当前时间与考试详细信息的显示工具�
 
 - - ExamSchedule 系列
   - [`ExamSchedule`](https://github.com/ExamAware/ExamSchedule) - **高可用性** 网页版考试看板
-  - [`ExamCloudSchedule`](https://github.com/ExamAware/ExamCloudSchedule) - 考试云看板
+  - [`ExamSchedule-Management`](https://github.com/ExamAware/ExamSchedule-Management) - **高可用性** 考试看板——云管理
   - [`ExamScheduleEditor`](https://github.com/ExamAware/ExamScheduleEditor) - 旧版配置文件编辑器
 - ExamAware2 系列
   - [`ExamAware2-Desktop`](https://github.com/ExamAware/ExamAware2-Desktop) - **🚧正在开发中** DSZ知试🧀桌面端
